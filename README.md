@@ -1,7 +1,7 @@
 ## Maximum Bandwidth presents... 
 <p>
   <img src='https://github.com/AG992/readme-boilerplate/assets/131806332/e58d0447-a7f2-49ff-8d4b-669c42fdd2a9' width='100' height='100'/>
-  <h5>Lemon Drop</h5>
+  <h1>Lemon Drop</h1>
 </p>
 
 
