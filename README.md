@@ -1,5 +1,5 @@
 <img src='https://github.com/AG992/readme-boilerplate/assets/131806332/e58d0447-a7f2-49ff-8d4b-669c42fdd2a9' width='200' height='200'/>
-![lemonlogo](https://github.com/AG992/readme-boilerplate/assets/131806332/e58d0447-a7f2-49ff-8d4b-669c42fdd2a9)
+
 ## Maximum Bandwidth presents... 
 # Lemon Drop
 
