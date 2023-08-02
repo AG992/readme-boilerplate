@@ -16,10 +16,10 @@ A template of README best practices to make your README simple to understand and
 
 ## Installation
 
-Download to your project directory, add `README.md`, and commit:
+Download to your project directory and run `npm i` inside the following commands in both the frontend and backend folders
 
 ```sh
-curl -LO http://git.io/Xy0Chg
+npm i
 git add README.md
 git commit -m "Use README Boilerplate"
 ```
