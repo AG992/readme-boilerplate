@@ -1,7 +1,9 @@
-<img src='https://github.com/AG992/readme-boilerplate/assets/131806332/e58d0447-a7f2-49ff-8d4b-669c42fdd2a9' width='100' height='100'/>
-
 ## Maximum Bandwidth presents... 
-# Lemon Drop
+<p>
+  <img src='https://github.com/AG992/readme-boilerplate/assets/131806332/e58d0447-a7f2-49ff-8d4b-669c42fdd2a9' width='100' height='100'/>
+  # Lemon Drop
+</p>
+
 
 A template of README best practices to make your README simple to understand and easy to use. 
 
